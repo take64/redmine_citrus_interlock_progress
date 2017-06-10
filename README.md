@@ -44,10 +44,10 @@ I am checking the operation.
 
 * Contents
 
-    * Parent ticket 'ABCD'
+    * Parent ticket 'ABCD'  
     Child ticket 'A', 'B', 'C', 'D'
 
-    * A => 50%, B => 25%, C => 75%, D => 50%
+    * A => 50%, B => 25%, C => 75%, D => 50%  
     ABCD => 50%
 
 ## License
