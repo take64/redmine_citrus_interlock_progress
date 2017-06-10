@@ -1,0 +1,4 @@
+# Simplified Chinese strings go here for Rails i18n
+zh:
+  citrus_interlock_progress: "父子任务互锁进度"
+  permission_enable_interlock_progress: "父子任务互锁进度"
